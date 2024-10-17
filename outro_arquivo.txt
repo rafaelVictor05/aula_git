@@ -1,6 +1,10 @@
 fhskjsahd  
+<<<<<<< HEAD
 asasas
 asidhsd
-
 asasassa
+asdasasas
+asidhsd
+asdasasas
+>>>>>>> nova_func
 asdijhasidk
